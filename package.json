@@ -1,6 +1,6 @@
 {
   "name": "poe-atlas-overview",
-  "homepage": "https://poeatlasoverview.com",
+  "homepage": "https://poeatlasoverlay.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
