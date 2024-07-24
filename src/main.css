@@ -1,0 +1,148 @@
+body {
+  margin: 0;
+  padding: 0;
+
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+
+  height: 100vh;
+  overflow-y: hidden;
+}
+
+.container {
+  margin: 0;
+  padding: 0;
+  
+  width: 100vw;
+  height: 100vh;
+
+  
+}
+
+.background {
+  background-color: #070a0d;
+  background-image: url('./image/background.png');
+}
+
+.image {
+  width: 100%;
+  height: 100vh;
+
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.menu {
+  position: relative;
+  z-index: 2;
+  color: white;
+
+  display: flex;
+}
+
+.transparency-slider {
+  height: 200px;
+  margin: 20px 5px;
+}
+
+.image:not(.active) {
+  display: none;
+}
+
+.abyss {
+  background-image: url('./image/abyss.png');
+}
+
+.alva {
+  background-image: url('./image/alva.png');
+}
+
+.bestiary {
+  background-image: url('./image/bestiary.png');
+}
+
+.beyond {
+  background-image: url('./image/beyond.png');
+}
+
+.blight {
+  background-image: url('./image/blight.png');
+}
+
+.breach {
+  background-image: url('./image/breach.png');
+}
+
+.delirium {
+  background-image: url('./image/delirium.png');
+}
+
+.delve {
+  background-image: url('./image/delve.png');
+}
+
+.essence {
+  background-image: url('./image/essence.png');
+}
+
+.expedition {
+  background-image: url('./image/expedition.png');
+}
+
+.harbinger {
+  background-image: url('./image/harbinger.png');
+}
+
+.harvest {
+  background-image: url('./image/harvest.png');
+}
+
+.heist {
+  background-image: url('./image/heist.png');
+}
+
+.jun {
+  background-image: url('./image/jun.png');
+}
+
+.kirac {
+  background-image: url('./image/kirac.png');
+}
+
+.legion {
+  background-image: url('./image/legion.png');
+}
+
+.ritual {
+  background-image: url('./image/ritual.png');
+}
+
+.rogue_exiles {
+  background-image: url('./image/rogue_exiles.png');
+}
+
+.scarab {
+  background-image: url('./image/scarab.png');
+}
+
+.shrine {
+  background-image: url('./image/shrine.png');
+}
+
+.strongbox {
+  background-image: url('./image/strongbox.png');
+}
+
+.torment {
+  background-image: url('./image/torment.png');
+}
+
+.ultimatum {
+  background-image: url('./image/ultimatum.png');
+}
