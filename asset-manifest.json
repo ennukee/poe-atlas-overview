@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef4d974e.css",
+    "main.js": "/static/js/main.6839776a.js",
+    "static/media/background.png": "/static/media/background.4f977a81269b6594c0a1.png",
+    "static/media/breach.png": "/static/media/breach.6b2dbb43936cf3151922.png",
+    "static/media/abyss.png": "/static/media/abyss.6eb9ecb6a38876e26a10.png",
+    "static/media/blight.png": "/static/media/blight.02bb067180eb37317081.png",
+    "static/media/delirium.png": "/static/media/delirium.d7c715510db0a2650a70.png",
+    "static/media/scarab.png": "/static/media/scarab.2041d31881c75175bb86.png",
+    "static/media/harvest.png": "/static/media/harvest.7d9d6c5d644bda0bfe60.png",
+    "static/media/expedition.png": "/static/media/expedition.af1f63d0e7ac27e71616.png",
+    "static/media/legion.png": "/static/media/legion.360f8c65c25434836820.png",
+    "static/media/ultimatum.png": "/static/media/ultimatum.a6534fd392163d60a6df.png",
+    "static/media/bestiary.png": "/static/media/bestiary.6c0b49d9fb72052316ea.png",
+    "static/media/beyond.png": "/static/media/beyond.ea1fa0ad92f240c2f2a2.png",
+    "static/media/delve.png": "/static/media/delve.1475fe206af7a76e3431.png",
+    "static/media/ritual.png": "/static/media/ritual.2a914bd3558079e45950.png",
+    "static/media/heist.png": "/static/media/heist.27f01d8797b5edf8c3d6.png",
+    "static/media/jun.png": "/static/media/jun.c962f8febc29005b7474.png",
+    "static/media/alva.png": "/static/media/alva.b1beac50bb7105ae21d2.png",
+    "static/media/essence.png": "/static/media/essence.8ff57d3eee39d959337b.png",
+    "static/media/strongbox.png": "/static/media/strongbox.71a517160c20a3fdb266.png",
+    "static/media/kirac.png": "/static/media/kirac.613442a4bb8ed2b91c8e.png",
+    "static/media/torment.png": "/static/media/torment.33e7b1de264fb8aa5984.png",
+    "static/media/rogue_exiles.png": "/static/media/rogue_exiles.fdbacfaac6711e1ec20a.png",
+    "static/media/harbinger.png": "/static/media/harbinger.f20a49f00426c3d8539a.png",
+    "static/media/shrine.png": "/static/media/shrine.7b2b789fd7284f8159b7.png",
+    "index.html": "/index.html",
+    "main.ef4d974e.css.map": "/static/css/main.ef4d974e.css.map",
+    "main.6839776a.js.map": "/static/js/main.6839776a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef4d974e.css",
+    "static/js/main.6839776a.js"
+  ]
+}
